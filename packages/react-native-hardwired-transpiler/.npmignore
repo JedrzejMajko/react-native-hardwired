@@ -1,0 +1,12 @@
+*.ts
+!*.d.ts
+examples
+__tests__
+jest.config.js
+jest.setup.js
+.prettierrc.js
+tsconfig.json
+typedoc.json
+.eslintrc.js
+src
+node_modules

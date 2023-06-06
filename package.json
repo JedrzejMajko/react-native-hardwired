@@ -1,0 +1,17 @@
+{
+  "name": "react-native-hardwired",
+  "version": "0.10.0",
+  "author": "Jedrzej Majko <jdrzjm@gmail.com>",
+  "description": "React Native Hardwired is (at the moment) an experimental library that enables you to lazy-load your React Native components and screens.",
+  "scripts": {
+  },
+  "compilerOptions": {},
+  "jest": {
+    "preset": "react-native"
+  },
+  "license": "MIT",
+  "devDependencies": {
+  },
+  "dependencies": {
+  }
+}
