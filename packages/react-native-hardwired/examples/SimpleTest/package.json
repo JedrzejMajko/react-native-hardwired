@@ -15,7 +15,7 @@
     "app-root-path": "^3.1.0",
     "react": "18.2.0",
     "react-native": "0.71.7",
-    "react-native-hardwired": "0.10.0"
+    "react-native-hardwired": "0.10.1"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",

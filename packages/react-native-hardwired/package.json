@@ -1,6 +1,6 @@
 {
   "name": "react-native-hardwired",
-  "version": "0.10.0",
+  "version": "0.10.1",
   "author": "Jedrzej Majko <jdrzjm@gmail.com>",
   "description": "A library for dynamically loading React Native modules. React native library, allows you to import (at runtime) modules created by the transpiler.",
   "main": "dist/cjs/index.js",

@@ -1,6 +1,6 @@
 {
   "name": "react-native-hardwired-transpiler",
-  "version": "0.10.0",
+  "version": "0.10.1",
   "author": "Jedrzej Majko <jdrzjm@gmail.com>",
   "description": "A library for dynamically loading React Native modules. Transpiler module, allows you to transform ES6 code into transpilation compatible with Hardwired.",
   "main": "dist/cjs/index.js",

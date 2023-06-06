@@ -1,1 +1,1 @@
-Please consult main README.md for more information.
+Please go to https://github.com/JedrzejMajko/react-native-hardwired for more information.
