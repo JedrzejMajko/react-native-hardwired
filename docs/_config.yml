@@ -1,5 +1,5 @@
 theme: minima
-logo: /assets/img/logo.png
-title: React Native Hardwired - Remote JSX React Native Components
-description: You can now simply download React Native components from web or database sources during runtime, eliminating the need for bundle rebuilds.
+logo: "/assets/img/logo.png"
+title: "React Native Hardwired - Remote JSX React Native Components"
+description: "You can now simply download React Native components from web or database sources during runtime, eliminating the need for bundle rebuilds."
 show_downloads: true
