@@ -18,6 +18,10 @@
     "test": "jest --runInBand --detectOpenHandles --forceExit",
     "lint": "eslint "
   },
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/JedrzejMajko"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/JedrzejMajko/react-native-hardwired"
