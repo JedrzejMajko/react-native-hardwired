@@ -1,11 +1,11 @@
 
 
 <p align="center">
-  <img style="max-width:100%" src="https://github.com/JedrzejMajko/react-native-hardwired/blob/master/docs/logohardwired.png" alt="React Native Hardwired">
+  <img style="max-width:100%" src="https://github.com/JedrzejMajko/react-native-hardwired/blob/master/docs/assets/img/logo.png" alt="React Native Hardwired">
 </p>
 
-React Native Hardwired is (at the moment) an experimental library that enables you to lazy-load 
-React Native components from web or database sources during runtime,
+React Native Hardwired is an library that allows you to use remote JSX React Components.
+You can now simply download React Native components from web or database sources during runtime,
 eliminating the need for bundle rebuilds.
 
 
