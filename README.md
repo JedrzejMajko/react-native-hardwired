@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img style="max-width:100%" src="https://github.com/JedrzejMajko/react-native-hardwired/blob/master/page/logohardwired.png" alt="React Native Hardwired">
+  <img style="max-width:100%" src="https://github.com/JedrzejMajko/react-native-hardwired/blob/master/docs/logohardwired.png" alt="React Native Hardwired">
 </p>
 
 React Native Hardwired is (at the moment) an experimental library that enables you to lazy-load 
