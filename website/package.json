@@ -1,0 +1,42 @@
+{
+  "name": "react-native-hardwired/docs",
+  "version": "1.0.0",
+  "description": "Documentation for React Native Hardwired",
+  "author": {
+    "name": "Jedrzej Majko",
+    "email": "jedrzej@coobers.com",
+    "url": "https://coobers.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JedrzejMajko/react-native-hardwired.git"
+  },
+  "scripts": {
+    "docusaurus": "docusaurus",
+    "start": "docusaurus start",
+    "build": "docusaurus build",
+    "deploy": "docusaurus deploy",
+    "serve": "docusaurus serve",
+    "clear": "docusaurus clear"
+  },
+  "dependencies": {
+    "@docusaurus/core": "^2.3.1",
+    "@docusaurus/preset-classic": "^2.3.1",
+    "docusaurus-plugin-sass": "^0.2.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "^5.0.0"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+#__docusaurus {
+  background-color: #161430;
+  color: #FFFFFF;
+
+}
+
+:root {
+  --ifm-color-primary: #5ec8a7;
+  --ifm-toc-link-color: #46a789;
+  --ifm-code-background: #484569;
+}
+
+#__docusaurus .navbar-sidebar {
+
+}
+
+
+#__docusaurus .navbar {
+  $this: &;
+  box-shadow: none;
+  background-color: inherit;
+  color: #FFF;
+  padding: 0;
+  display: flex;
+
+
+  &-sidebar {
+    background-color: #161430;
+    a {
+      color: #FFF;
+      text-transform: uppercase;
+    }
+    li {
+
+      padding-left: 20px;
+    }
+
+  }
+
+  &__toggle {
+    padding-left: 20px;
+    path {
+        stroke: #5ec8a7;
+    }
+  }
+  &__logo {
+    height: auto;
+    max-width: 256px;
+    margin: 0;
+
+    img {
+      display: block;
+    }
+  }
+  &__link {
+    font-weight: 600;
+    padding: 0 20px;
+    text-transform: uppercase;
+    transition: {
+      property: color;
+      timing-function: ease-out;
+      duration: 0.3s;
+    }
+    color: #FFFFFF;
+
+    &:hover {
+      color: #5ec8a7;
+    }
+  }
+}
