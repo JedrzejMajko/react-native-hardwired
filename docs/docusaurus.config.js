@@ -39,6 +39,12 @@ module.exports = {
           label: "About me",
           position: "right",
         },
+        {
+          href: "https://github.com/JedrzejMajko/react-native-hardwired",
+          position: "right",
+          className: "header-github-link",
+          "aria-label": "GitHub repository",
+        },
       ],
     },
     colorMode: {
