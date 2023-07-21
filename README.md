@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img style="max-width:100%" src="https://github.com/JedrzejMajko/react-native-hardwired/blob/master/docs/assets/img/logo.png" alt="React Native Hardwired">
+  <img style="max-width:100%" src="https://github.com/JedrzejMajko/react-native-hardwired/blob/master/docs/static/img/logo.png" alt="React Native Hardwired">
 </p>
 
 React Native Hardwired is an library that allows you to use remote JSX React Components.
