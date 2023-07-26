@@ -14,8 +14,8 @@
     "@react-native-community/cli": "^11.3.1",
     "app-root-path": "^3.1.0",
     "react": "18.2.0",
-    "react-native": "0.71.7",
-    "react-native-hardwired": "0.10.1"
+    "react-native": "0.72.3",
+    "react-native-hardwired": "0.10.2"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
